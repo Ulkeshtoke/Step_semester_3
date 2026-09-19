@@ -1,0 +1,9 @@
+*.class
+.vscode/
+.DS_Store
+
+src/main/java/functions_arrays/
+src/main/java/week1/
+src/main/java/week2/
+src/main/java/week5/
+src/main/java/week6/
